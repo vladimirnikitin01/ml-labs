@@ -1,2 +1,10 @@
 # ml-labs
-Completed tasks for ml-mipt course
+1. Решающие деревья
+
+2.Беггинг, ансамбли, случайные леса.Визуализация решающих деревьев. Случайный лес в sklearn.Сверхслучайные деревья
+
+3.Random Forest и переобучение.Градиентный бустинг, XGBoost implementation
+
+4.Введение в XGBoost, Catboost.Настройка параметров XGBoost
+
+5.Полносвязные нейронные сети на pytorch
